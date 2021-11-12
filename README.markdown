@@ -1,5 +1,5 @@
-# #9 Calculator_111121_1700
+# JS Calculator
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/nicolejaneway/pen/ZEJMQKj](https://codepen.io/nicolejaneway/pen/ZEJMQKj).
+[Demo](https://codepen.io/nicolejaneway/pen/ZEJMQKj)
 
 
