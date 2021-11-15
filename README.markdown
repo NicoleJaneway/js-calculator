@@ -12,3 +12,4 @@ Fully functional calculator built in React.  Enforces logical rules around user 
 [Demo](https://codepen.io/nicolejaneway/full/OJjozJy)
 
 
+![calculator](img.png)
