@@ -110,14 +110,14 @@ function App() {
   const calculate = () => {
     if (expression.length > 0) {
       let value = String(eval(expression));
-      if (value.match(/(?:\.\d*)/)[0].length > 6) {
+      if (value.match(/(?:\.\d*)/) && value.match(/(?:\.\d*)/)[0].length > 6) {
         console.log("long");
         value = String(eval(expression).toPrecision(5));
         setShowApproxSign(true);
       }
       console.log({ value });
       setAnswer(value);
-      setExpression(prev => prev + " =");
+      setExpression((prev) => prev + " =");
     }
   };
 
