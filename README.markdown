@@ -7,7 +7,7 @@ Fully functional calculator built in React.  Enforces logical rules around user 
   -  Pressing a number immediately following = should start a new calculation
   -  Pressing an operator immediately following = should start a new calculation that operates on the result of the previous evaluation
   -  Handles > 5 decimal places of precision with rounding, indicated by ~ symbol
-  */
+ 
 
 [Demo](https://codepen.io/nicolejaneway/full/OJjozJy)
 
